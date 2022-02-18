@@ -1,0 +1,3 @@
+- 👋 Hi, I’m rekik
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning javascript
